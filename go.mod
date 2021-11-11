@@ -1,3 +1,3 @@
-module github.com/maxim-dev/utils/v2
+module github.com/maxim-dev/utils/v3
 
 go 1.17
